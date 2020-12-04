@@ -54,12 +54,6 @@ p {
   line-height: 2;
   font-weight: 400; }
 
-p a{
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  line-height: 2;
-  font-weight: 400; }  
-
 #hour {
   text-transform: uppercase;
   background-color: transparent;
@@ -1215,7 +1209,10 @@ img {
     .footer-area {
       text-align: center; } }
   .footer-area .copywrite-text {
-    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    font-weight: 400;
     letter-spacing: 2.5px;
     margin-bottom: 0;
     color: rgba(166, 165, 165, 0.54); }
