@@ -1,7 +1,7 @@
 User-Agent: *
+
 Disallow: /css/
-Disallow: /img/
-Disallow: /font/
+Disallow: /fonts/
 Disallow: /js/
 Disallow: https://www.calizmusic.com/style.css
 
