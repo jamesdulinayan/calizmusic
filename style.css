@@ -52,7 +52,7 @@ p {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 2;
-  font-weight: 400; }
+  font-weight: 400; }  
 
 #hour {
   text-transform: uppercase;
@@ -1209,14 +1209,12 @@ img {
     .footer-area {
       text-align: center; } }
   .footer-area .copywrite-text {
-    font-family: "Roboto", sans-serif;
-    font-size: 25px;
-    line-height: 2;
-    letter-spacing: 4px;
+    font-size: 13px;
+    letter-spacing: 2.5px;
     margin-bottom: 0;
     color: rgba(166, 165, 165, 0.54); }
       .footer-area .copywrite-text {
-        color: white; }
+        color: #fff; }
   .footer-area .footer-nav ul {
     display: -webkit-box;
     display: -ms-flexbox;
