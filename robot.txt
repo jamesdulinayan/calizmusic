@@ -1,4 +1,8 @@
 User-Agent: *
-Disallow: 
+Disallow: /css/
+Disallow: /img/
+Disallow: /font/
+Disallow: /js/
+Disallow: https://www.calizmusic.com/style.css
 
 Sitemap: https://www.calizmusic.com/sitemap.xml
