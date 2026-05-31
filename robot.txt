@@ -3,6 +3,6 @@ User-Agent: *
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /js/
-Disallow: https://calizmusic.vercel.app/style.css
+Disallow: https://caliz-music.vercel.app/style.css
 
-Sitemap: https://calizmusic.vercel.app/sitemap.xml
+Sitemap: https://caliz-music.vercel.app/sitemap.xml
